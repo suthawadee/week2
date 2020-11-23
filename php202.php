@@ -6,5 +6,5 @@
     $y = 4;
     //Display Varible
     echo("$message.<br/>".$message2 . "<br />");
-    echo($z = $x + $y);
+    echo("Z = ".$z = $x + $y);
 ?>
